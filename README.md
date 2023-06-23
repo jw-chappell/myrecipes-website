@@ -7,5 +7,5 @@ Add a check box that saves.
 
 Add a search bar to each page. 
 
-Possible category each meal
+Possible category each meal.
 
